@@ -1,4 +1,6 @@
+
 # Wicked Menu for RDR Online
+
 ***
 This menu REQUIRES Cheat Engine to run it.
 
@@ -13,37 +15,29 @@ https://www.cheatengine.org/downloads.php
 ![Screenshot_9](https://github.com/plumbwick3d/Wicked-Menu-for-RDR2/assets/160573347/d40f2fed-7206-4014-9888-0144d18715be)
 
 
+## Wicked Menu
 
+## Change Logs/
 
+### v5.2.1
 
-Wicked Menu 
+- started adding Navigation handler used with numpad + and -
 
-
-Change Logs/
-
-
-v5.2.0 
-
+### v5.2.0
 
 Updated for RDRO v1491.50
 
-Menu Optimized 
+Menu Optimized
 
-
-
-
-
-v5.1.0 
+### v5.1.0
 
 Fixed small Lua error in Teleport to Waypoint script.
 
 Thanks to @Miklo #958446681475657810 for finding this and bringing it to our attention.
 
+### V5.0
 
-
-V5.0 
-
-Re-Worked Golddropper 
+Re-Worked Golddropper
 
 Added:
 
@@ -57,32 +51,27 @@ Weather Menu
 
 Several GUI Fixes
 
+### v4.9
 
+Removed discord
 
-
-v4.9
-
-Removed discord 
-
-V4.8
+### V4.8
 
 Updated Credits / Version # / And Misc Fixes to GUI
 
 Everyone give a Special thanks to gurmeet for the Following Fixes:
 
-Discord ID : 488298638372503554 
+Discord ID : 488298638372503554
 
 https://www.unknowncheats.me/forum/members/2805809.html 
 
 Fixed Broken pointers
 
-ReCoded Teleport to Waypoint 
+ReCoded Teleport to Waypoint
 
 Gold Dropper
 
-
-
-V4.7 
+### V4.7
 
 Fixed:
 
@@ -94,7 +83,7 @@ Credits to Splash screen
 
 
 
-v4.6
+### v4.6
 
 
 
