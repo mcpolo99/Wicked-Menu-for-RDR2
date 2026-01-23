@@ -720,7 +720,7 @@ _G.getCheatEngineExe = function() return enumModules()[1].PathToFile end
           <VariableType>Auto Assembler Script</VariableType>
           <AssemblerScript>[ENABLE]
 {$lua}
-Logger.currentLevel = Logger.Level.DEBUG
+Logger.currentLevel = Logger.Level.INFO
 Navigator = {}
 Navigator.selectedItem = nil -- The item to be used for teleport
 Navigator.listLocations = {} -- a cahce for current cycle or list of avaiable teleport locations, used in load_mapdata etc
