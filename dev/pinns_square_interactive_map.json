@@ -1,0 +1,115 @@
+[
+    {
+        "lat": 0,
+        "lng": 200,
+        "id": -118061156,
+        "title": "top right max ",
+        "description": "This is your custom user pin, you can edit the name and description, just don't forget to save!",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": 0,
+        "lng": 0,
+        "id": 1562552923,
+        "title": "top left max",
+        "description": "This is your custom user pin, you can edit the name and description, just don't forget to save!",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": -150,
+        "lng": 0,
+        "id": 1887875862,
+        "title": "bot left max",
+        "description": "This is your custom user pin, you can edit the name and description, just don't forget to save!",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": -150,
+        "lng": 200,
+        "id": -305814641,
+        "title": "bot right max",
+        "description": "This is your custom user pin, you can edit the name and description, just don't forget to save!",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": -94.7890625,
+        "lng": 139.96875,
+        "id": 1825411504,
+        "title": "Bot Right ",
+        "description": "Map1 : x =  1847.9252929688 , y =  -2009.9371337891 ",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": -40.671875,
+        "lng": 162.2109375,
+        "id": 1908556919,
+        "title": "Top Right ",
+        "description": "map1: x =  3279.6135253906 , y =  1475.1295166016 ",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": -14.0234375,
+        "lng": 86.2578125,
+        "id": -1478714373,
+        "title": "Top Left",
+        "description": "map1: x =  -1612.4761962891 , y =  3193.3100585938 ",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": -124.0546875,
+        "lng": 10.84375,
+        "id": -1093704625,
+        "title": "Bot Left ",
+        "description": "map1:x =  -6470.1015625 , y =  -3894.3305664063 ",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+    {
+        "lat": -63.6  ,
+        "lng": 111.3,
+        "id": -486262217,
+        "title": "mid",
+        "description": "map1: x =  -7.9071159362793 , y =  -8.5120687484741",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+	{
+        "lat": -43.89896662345,
+        "lng": 156.63396256295,
+        "id": -486262218,
+        "title": "ANES",
+        "description": "map1: x =  -7.9071159362793 , y =  -8.5120687484741",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    },
+		{
+        "lat": -109.49865728547  ,
+        "lng": 25.559712778772 ,
+        "id": -486211119,
+        "title": "TUMBLE",
+        "description": "x =  -5524.4350585938 , y =  -2957.3513183594 , z =  -1.6610472202301",
+        "shape": "default",
+        "icon": "pin",
+        "color": "orange"
+    }
+]
+
+
+
